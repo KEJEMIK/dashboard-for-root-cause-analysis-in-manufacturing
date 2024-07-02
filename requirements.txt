@@ -1,0 +1,7 @@
+ipython==8.15.0
+matplotlib==3.8.0
+numpy==1.26.3
+pandas==2.2.0
+pm4py==2.7.5.2
+pydotplus==2.0.2
+mercury==2.3.7
