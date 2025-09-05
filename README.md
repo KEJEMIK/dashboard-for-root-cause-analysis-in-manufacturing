@@ -1,6 +1,6 @@
 # Dashboard for Root Cause Analysis in Manufacturing
 
-Prototypical implementation for the submission: Kacper Mucha, Kristof Böhmer and Maria Leitner: Dashboard for Root Cause Analysis in Manufacturing.
+Prototypical implementation for the submission: Kacper Mucha, Kristof Böhmer and Maria Leitner: KPI-driven Visualizations for Root Cause Analysis in Manufacturing Processes.
 
 This repository presents a prototype of a dashboard designed for root cause analysis in manufacturing processes. The dashboard aims to provide insights into the factors influencing production efficiency and to aid in identifying the root causes of detected anomalies. It contains methods to extract Footprints from the production log, calculate the Footprint KPIs and aggregate them. Based on these calculations, the visualization techniques have been implemented to highlight detected anomalies. Currently the repository provides Directly Follows Graph and Scatter Plot visualization capabilities. The dashboard is made interactive by utilizing Mercury Framework, which converts the Jupyter Notebook into a Web Application.
 
